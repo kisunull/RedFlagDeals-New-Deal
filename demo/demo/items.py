@@ -19,5 +19,6 @@ class RfdItem(scrapy.Item):
     # name = scrapy.Field()
     uid = scrapy.Field()
     title = scrapy.Field()
+    retailer = scrapy.Field()
     #time = scrapy.Field()
     #link = scrapy.Field()
