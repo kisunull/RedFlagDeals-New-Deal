@@ -1,7 +1,8 @@
 # RedFlagDeals-New-Deal
 Scarpy project to get the new hot deal's alarm from RedFlagDeals, send to Telegram channel by a bot.  
 <br/>
-  
+
+Install pip: ```apt install python3-pip```
 Install scrapy: ```pip install scrapy```  
 Start a new project: ```scrapy startproject demo```  
 Enter the directory: ```cd demo```  
