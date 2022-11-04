@@ -20,6 +20,11 @@ demo/demo/spiders/rfd.py
 ``` 
 <br/>
   
+Modify your Telegram chatId and token in file ```demo/tg.py```   
+Telegram Bot - how to get a group chat id?   
+https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id   
+<br/>
+
 Install apscheduler: ```pip install apscheduler```  
 Start the corn job: ```python3 cron.py```  
 <br/>
